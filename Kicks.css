@@ -247,6 +247,7 @@ h2{
 }
 @media(max-width: 380px){
         .review-pic{
+         width: 19%;
          height: 8vh;
          }
 }
