@@ -67,6 +67,7 @@ li{
 header{
 	display: flex;
 	justify-content: space-between;
+        flex-wrap: wrap;
 }
 .text-intro{
   z-index: 10;
@@ -102,6 +103,7 @@ header{
 .container{
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 .step{
   width: 30vw;
@@ -250,4 +252,13 @@ h2{
          width: 19%;
          height: 8vh;
          }
+         .header{
+         display: block;
+}
+.container{
+display: block;}
+.step{
+margin: 0;
+width: 40vw;
+text-align: center;}
 }
