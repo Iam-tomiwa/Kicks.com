@@ -260,5 +260,6 @@ h2{
      .step, .text-intro, .discount{
        margin: 0 auto;
        width: 70vw;
-       text-align: center;}
+       text-align: center;
+       padding-bottom: 1rem;}
 }
