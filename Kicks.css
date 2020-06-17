@@ -257,7 +257,7 @@ h2{
 }
      .container{
        display: block;}
-     .step, .text-intro, . discount{
+     .step, .text-intro, .discount{
        margin: 0 auto;
        width: 70vw;
        text-align: center;}
