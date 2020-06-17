@@ -252,13 +252,13 @@ h2{
          width: 19%;
          height: 8vh;
          }
-         .header{
+         header{
          display: block;
 }
      .container{
        display: block;}
-     .step{
+     .step, .text-intro, . discount{
        margin: 0 auto;
-       width: 40vw;
+       width: 70vw;
        text-align: center;}
 }
