@@ -255,10 +255,10 @@ h2{
          .header{
          display: block;
 }
-.container{
-display: block;}
-.step{
-margin: 0;
-width: 40vw;
-text-align: center;}
+     .container{
+       display: block;}
+     .step{
+       margin: 0 auto;
+       width: 40vw;
+       text-align: center;}
 }
