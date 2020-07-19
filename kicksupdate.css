@@ -13,7 +13,7 @@ body{
   font-family: Sans-Serif;
   max-width: 100vw;
   font-size: 100%;
-  font-family: 'Poppins' 'Sans-Serif';
+  font-family: 'Poppins', sans-serif;
 }
 h1{
   font-size: 3vh;
