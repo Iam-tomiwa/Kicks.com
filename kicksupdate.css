@@ -275,7 +275,7 @@ hr{
  display: flex;
  justify-content: center;
  color: #aeaeae;
- padding: 1rem;
+ padding-top: 1rem;
  background-color: rgb(50, 50, 50);
 }
 .fa{
@@ -295,7 +295,7 @@ hr{
 }
 .footer-1 a li{
   font-size: .8rem;
-  margin: 1rem 1rem 1rem 0;
+  margin: 0 1rem 2rem 0;
   display: inline-block;
 }
 .sticky, .card-btn, .btn, .footer-1 a{
