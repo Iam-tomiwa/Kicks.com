@@ -200,7 +200,6 @@ hr{
   text-align: center;
   background: white;
   width: 37vw;
-  height: 7vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -347,11 +346,11 @@ hr{
 	}
         .card-btn b{
                 padding: 25px 0;
-                width: 30vw;
+               
                 left: 9px;
         }
         .items{
-                width: 27vw;
+                
         }
 	li{
 		font-size: 1.5rem;
