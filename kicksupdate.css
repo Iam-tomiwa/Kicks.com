@@ -252,13 +252,15 @@ hr{
 .sticky{
   width: 50px;
   height: 50px;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   position: fixed;
   bottom: 23vh;
   right: 5vw;
   font-size: 2rem;
   text-align: center;
-  padding: 8px 0;
+  padding: auto;
   border-radius: 50%;
   background: rgb(55,55,55);
   color: white;
