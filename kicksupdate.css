@@ -177,7 +177,7 @@ hr{
 }
 .items{
   background: rgb(233,233,233);
-  margin: 1rem .3rem;
+  margin: 1rem .5rem;
   width: 34vw;
   display: flex;
   flex-wrap: wrap;
