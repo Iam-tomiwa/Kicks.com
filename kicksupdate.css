@@ -254,11 +254,11 @@ hr{
   height: 50px;
   text-align: center;
   position: fixed;
-  bottom: 26vh;
+  bottom: 23vh;
   right: 5vw;
-  font-size: 2em;
+  font-size: 2rem;
   text-align: center;
-  padding: 9px 0;
+  padding: 8px 0;
   border-radius: 50%;
   background: rgb(55,55,55);
   color: white;
