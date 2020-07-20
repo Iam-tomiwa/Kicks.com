@@ -180,7 +180,8 @@ hr{
   margin: 1rem .3rem;
   width: 34vw;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
   align-items: center;
   box-shadow: 2px 15px 26px 0px #c7c7c7;
   transition: .5s;
