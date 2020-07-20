@@ -177,7 +177,7 @@ hr{
 }
 .items{
   background: rgb(233,233,233);
-  margin: 1rem .5rem;
+  margin: 1rem .6rem;
   width: 34vw;
   display: flex;
   flex-wrap: wrap;
@@ -347,11 +347,11 @@ hr{
 	}
         .card-btn b{
                 padding: 25px 0;
-                width: 33vw;
+                width: 30vw;
                 left: 9px;
         }
         .items{
-                width: 30vw;
+                width: 27vw;
         }
 	li{
 		font-size: 1.5rem;
