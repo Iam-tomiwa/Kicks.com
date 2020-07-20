@@ -180,7 +180,6 @@ hr{
   margin: 1rem .6rem;
   width: 34vw;
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   box-shadow: 2px 15px 26px 0px #c7c7c7;
@@ -346,11 +345,7 @@ hr{
 	}
         .card-btn b{
                 padding: 25px 0;
-               
                 left: 9px;
-        }
-        .items{
-                
         }
 	li{
 		font-size: 1.5rem;
