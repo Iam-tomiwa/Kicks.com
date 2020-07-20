@@ -270,6 +270,17 @@ hr{
   box-shadow: 0 5px 24px #726e6b;
   font-weight: 300;
 }
+.icons{
+ font-size: 1.5em;
+ display: flex;
+ justify-content: center;
+ color: #aeaeae;
+ padding: 1rem;
+ background-color: rgb(50, 50, 50);
+}
+.fa{
+ margin: 0 1.5rem;
+}
 .footer a{
 	text-align: center;
 	display: inline-block;
