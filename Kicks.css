@@ -14,8 +14,8 @@ body{
   font-weight: 400;
   font-family: 'Poppins', sans-serif;
 }
-h1{
-  font-size: 3vh;
+.text-intro h3{
+  padding: 1.5vh;
 }
 a{
 	text-decoration: none;
@@ -354,7 +354,7 @@ background-color: rgb(50, 50, 50);
 		font-size: 1rem;
 	}
 }
-@media(max-width: 411px){
+@media(max-width: 534px){
   header{
   display: block;
   }
