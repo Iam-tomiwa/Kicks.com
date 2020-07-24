@@ -356,6 +356,10 @@ background-color: rgb(50, 50, 50);
   header{
   display: block;
   }
+ #logo{
+   width: 25vw;
+   height: 8vh;
+  }
   li{
     font-size: .75rem;
     padding: auto .5rem;
