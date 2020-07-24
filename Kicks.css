@@ -59,12 +59,13 @@ nav, header, .card-link{
 }
 #logo{
   width: 25vw;
+  height: 7vh;
+  align-self: center;
 }
  ul{ list-style: none;
 }
 .nav-bar ul{
   display: flex;
-  flex-basis: 70%;
   justify-content: flex-end;
 }
 li{
